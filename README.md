@@ -1,0 +1,1 @@
+ScanX is a cybersecurity-focused web application planned for development during our hackathon(HACK-N-WIN 3.0). It aims to provide a simple and efficient platform for URL scanning and basic threat detection. This repository currently contains the initial HTML landing page layout.
